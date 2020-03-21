@@ -10,3 +10,6 @@ N予備校ではgitを使って課題を提出するので、やっていれば�
 この節に対応する課題は
 https://github.com/progedu/intro-curriculum-3001
 のリポジトリです。
+
+https://github.com/aluqbnle/intro-curriculum-3001/tree/master
+こちらがforkしたリポジトリです。
