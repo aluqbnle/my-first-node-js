@@ -6,3 +6,7 @@ N予備校ではgitを使って課題を提出するので、やっていれば�
 このリポジトリはNode.jsを初めて使ってfor文で計算させたものをgitです。
 
 - https://aluqbnle.github.io/my-first-node-js/
+
+この節に対応する課題は
+https://github.com/progedu/intro-curriculum-3001
+のリポジトリです。
